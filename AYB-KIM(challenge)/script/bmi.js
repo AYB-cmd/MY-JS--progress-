@@ -35,5 +35,5 @@ else if(person1BMI < person2BMI){
     console.log(person2Name + " your BMI is higher than " + person1Name);
 }else {
     console.log(" Your are Even ")
-}
+};
 
